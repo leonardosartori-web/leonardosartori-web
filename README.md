@@ -1,3 +1,8 @@
+- 👋 Hi, I’m Leonardo Sartori (@leonardosartori-web)
+- 👀 I’m interested in IT, music and many other things...
+- 🌱 I’m currently learning IT at University
+- 📫 How to reach me leonardo.sartori62@gmail.com
+
 Software Developer
 Backend | Full Stack | ML
 
